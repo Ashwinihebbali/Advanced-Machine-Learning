@@ -17,59 +17,158 @@
 
 ## 👩‍💻 About This Repository
 
-This repository documents my complete **Advanced Machine Learning learning path** — from deepening theoretical understanding to implementing state-of-the-art models and production systems.
+This repository documents my complete **Advanced Machine Learning path** — from deepening theoretical understanding to implementing state-of-the-art models and production systems.
 
 **Journey roadmap:**
 
 ML Practitioner → ML Engineer → ML Research-level understanding
 
-### 🎯 Main Objectives
+---
 
-- Build strong **mathematical intuition** behind modern ML/DL algorithms
-- Implement advanced models **from scratch** (no high-level APIs for core parts)
-- Deeply understand **optimization**, **generalization** and **regularization**
-- Read → re-implement → experiment with recent research papers
-- Create **production-ready**, deployable ML systems
-- Prepare for top-tier AI/ML interviews & real-world problem solving
+### 🎯 Course Objectives
 
-<br>
+- Study core concepts of **Supervised Learning** algorithms  
+- Solve problems using **Neural Networks**  
+- Understand **Bayesian Learning** models  
+- Analyze **Unsupervised Machine Learning** techniques  
+- Compare **Analytical** vs **Inductive** Learning approaches  
 
-## 🧠 Topics & Progress
+---
+## 📚 Module-Wise Breakdown
 
-### 1. Mathematical Foundations
+### 🧠 Module 1: Concept Learning & Decision Trees
 
-- Linear Algebra for Machine Learning
-- Probability & Statistics Essentials
-- Bayesian Learning & Probabilistic ML
-- Information Theory in ML
-- Optimization in Depth
-  - Gradient Descent family (vanilla, momentum, Nesterov, Adagrad...)
-  - Adam / RMSProp / AdamW / Lion / Sophia / AdEMAMix ...
-  - Second-order methods & approximations
-  - Convex & non-convex optimization landscapes
+#### Topics:
+- Concept Learning Task
+- Concept Learning as Search
+- Find-S Algorithm
+- Version Space
+- Candidate Elimination Algorithm
+- Inductive Bias
+- Decision Tree Learning
+- Hypothesis Space in Decision Trees
+- Issues in Decision Tree Learning
 
-### 2. Advanced Classical ML
+#### Implementations:
+- ✔️ Find-S Algorithm (from scratch)
+- ✔️ Candidate Elimination Algorithm
+- ✔️ ID3 Decision Tree Algorithm
 
-- Support Vector Machines (primal/dual, soft-margin, SMO)
-- Kernel Methods & Kernel Trick
-- Ensemble Learning Deep Dive
-  - Bagging → Random Forests
-  - Boosting family: AdaBoost → Gradient Boosting → XGBoost → LightGBM → CatBoost → NGBoost
-- Probabilistic Models
-  - Hidden Markov Models (HMM)
-  - Gaussian Mixture Models (GMM) & EM algorithm
-  - Markov Chain Monte Carlo basics
+---
 
-### 3. Deep Learning & Modern Architectures
+### 🤖 Module 2: Artificial Neural Networks & Evaluating Hypotheses
 
-- Backpropagation & autodiff from scratch
-- Convolutional Neural Networks (classic → EfficientNet → ConvNeXt → ConvFormer...)
-- Sequence Models
-  - RNN → LSTM → GRU → SRU / RWKV
-- Attention Is All You Need
-  - Self-Attention → Multi-Head → Scaled Dot-Product
-  - Transformers (encoder, decoder, encoder-decoder)
-- Transfer Learning & Fine-tuning
-  - Feature extraction vs full fine-tuning
-  - LoRA / QLoRA / DoRA / AdapterHub
-- Regularization zoo (Dropout → DropPath → Label Smoothing → Mixup → CutMix → AutoAugment...)
+#### Topics:
+- Neural Network Representation
+- Perceptron
+- Multilayer Networks
+- Backpropagation Algorithm
+- Evaluating Hypotheses
+- Estimating Hypothesis Accuracy
+- Sampling Theorem
+- Confidence Intervals
+- Comparing Learning Algorithms
+
+#### Implementations:
+- ✔️ Perceptron Model
+- ✔️ Multilayer Neural Network
+- ✔️ Backpropagation from scratch
+- ✔️ Hypothesis testing and error comparison
+
+---
+
+### 📊 Module 3: Bayesian Learning
+
+#### Topics:
+- Bayes Theorem
+- Bayesian Concept Learning
+- Maximum Likelihood Hypothesis
+- Least Squared Error Hypothesis
+- Maximum Likelihood for Probabilities
+- MDL Principle
+- Naive Bayes Classifier
+- Bayesian Belief Networks
+- Expectation-Maximization (EM)
+
+#### Implementations:
+- ✔️ Naive Bayes Classifier
+- ✔️ Bayesian Network for Medical Diagnosis
+- ✔️ EM Algorithm Demonstration
+
+---
+
+### 📍 Module 4: Instance-Based Learning & Reinforcement Learning
+
+#### Instance-Based Learning:
+- K-Nearest Neighbor (KNN)
+- Locally Weighted Regression
+- Radial Basis Function
+- Case-Based Reasoning
+
+#### Reinforcement Learning:
+- Learning Task
+- Q-Learning
+- Non-deterministic Rewards & Actions
+
+#### Implementations:
+- ✔️ KNN on Iris Dataset
+- ✔️ Locally Weighted Regression
+- ✔️ K-Means Clustering vs EM Comparison
+- ✔️ Basic Q-Learning Implementation
+
+---
+
+### 🔬 Module 5: Analytical Learning
+
+#### Topics:
+- Learning with Perfect Domain Theories
+- Prolog-EBG
+- Explanation-Based Learning
+- Combining Inductive & Analytical Learning
+- Using Prior Knowledge in Learning
+
+#### Implementations:
+- ✔️ Explanation-Based Learning Demonstration
+- ✔️ Inductive vs Analytical Comparison
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Python 3.8+
+- Basic understanding of linear algebra and calculus
+- Familiarity with probability theory
+
+### Installation
+```bash
+# Clone the repository
+git clone <repository-url>
+
+# Install required packages
+pip install -r requirements.txt
+```
+
+## 📖 Usage
+
+Each module contains Jupyter notebooks and Python scripts demonstrating the implementations. Navigate to the respective module folder and run the notebooks or scripts.
+
+```bash
+# Example: Running Module 1 implementations
+cd module1
+jupyter notebook
+```
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 📝 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 📧 Contact
+
+For questions or suggestions, please open an issue in the repository.
+
+
