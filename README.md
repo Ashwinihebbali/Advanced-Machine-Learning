@@ -133,7 +133,7 @@ ML Practitioner → ML Engineer → ML Research-level understanding
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Getting Started:
 
 ### Prerequisites
 - Python 3.8+
