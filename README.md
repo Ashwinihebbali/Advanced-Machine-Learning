@@ -133,7 +133,7 @@ ML Practitioner → ML Engineer → ML Research-level understanding
 
 ---
 
-## 🚀 Getting Started:
+## 🚀 Getting Started::
 
 ### Prerequisites
 - Python 3.8+
@@ -167,7 +167,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 📧 Contact
+## 📧 Contact 
 
 For questions or suggestions, please open an issue in the repository.
 
