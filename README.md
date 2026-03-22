@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🚀 Advanced Machine Learning Journey</h1>
   
-  <p>
+  <p></p>
     <strong>A structured, hands-on, research-oriented journey into Advanced Machine Learning</strong><br>
     From mathematical foundations → production-grade systems → cutting-edge research implementations
   </p>
