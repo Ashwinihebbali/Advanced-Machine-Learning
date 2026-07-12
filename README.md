@@ -3,7 +3,7 @@
   
   <p></p>
     <strong>A structured, hands-on, research-oriented journey into Advanced Machine Learning</strong><br>
-    From mathematical foundations → production-grade systems → cutting-edge research implementations
+    From mathematical foundations → production-grade systems → cutting-edge research implementations 
   </p>
 
   <p>
