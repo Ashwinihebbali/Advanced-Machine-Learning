@@ -7,7 +7,7 @@
   </p>
 
   <p>
-    <img  src="https://img.shields.io/badge/Status-Work%20in%20Progress-yellow?style=for-the-badge&logo=python" alt="Status">
+    <img src="https://img.shields.io/badge/Status-Work%20in%20Progress-yellow?style=for-the-badge&logo=python" alt="Status">
     <img src="https://img.shields.io/badge/Level-Advanced-8A2BE2?style=for-the-badge" alt="Level">
     <img src="https://img.shields.io/badge/Goal-ML%20Research%20Ready-00C853?style=for-the-badge" alt="Goal">
   </p>
