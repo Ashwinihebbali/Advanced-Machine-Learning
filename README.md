@@ -1,5 +1,5 @@
 ><div align="center">   
-  <h1>🚀 Advanced Machine Learning Journey</h1>                          
+  <h1>🚀 Advanced Machine Learning Journey</h1>                           
   
   <p></p>
     <strong>A structured, hands-on, research-oriented journey into Advanced Machine Learning</strong><br>
